@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="img_7194-compressed2" size="0.025000 0.033333" />
+    <ImageTarget name="gradlabsign-compressed" size="0.025000 0.033333" />
+  </Tracking>
+</QCARConfig>

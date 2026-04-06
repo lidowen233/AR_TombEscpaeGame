@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="double_up_switch_only" targetId="a3d7d8b1ff6c4c70a39dcbd0c45eda24" bbox="-0.016393 0.300190 0.003362 0.043779 0.329204 0.024065" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="double_up_full_trimmed" targetId="d7d23a5276db4df1986b81909927dd7c" bbox="-0.046041 0.255001 -0.005734 0.072408 0.371831 0.024095" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="light_double_down" targetId="3eee790c078a46f7b0067dc28bec58ae" bbox="-0.062103 0.127128 -0.008998 0.057472 0.246353 0.010727" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="light_single_up" targetId="ba319d2393fd49739ea303a89839f4ed" bbox="-0.029382 0.052545 -0.007003 0.046011 0.166890 0.012696" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="light_single_up_2" targetId="5d988e8a289d479c8dc63e597f8ed013" bbox="0.001495 0.095776 -0.002980 0.014810 0.123758 0.012684" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="double_up_switch_only" assemblyId="dbe2f13c80b04acbbf8dc802c84b0e9e">
+        <Part name="double_up_switch_only" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="double_up_full_trimmed" assemblyId="e9233154317f4c48b5382736c0dcf335">
+        <Part name="double_up_full_trimmed" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="light_double_down" assemblyId="6a47a918c4f34ceb97dfdd0e21583cd5">
+        <Part name="light_double_down" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="light_single_up" assemblyId="48366bbc44d14024a6eb1724579ff681">
+        <Part name="light_single_up" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="light_single_up_2" assemblyId="437a7cdd2c31455f8eb618a7dff7dcd9">
+        <Part name="light_single_up_2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="df9d7a2c37894a46b759f1e680b73d5e" name="school_switches" toolVersion="v7.0.6" version="36.0" />
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="grad_lab_sign" size="0.270000 0.360000" />
+  </Tracking>
+</QCARConfig>

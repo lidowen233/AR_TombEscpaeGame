@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.1.0">
+        <ModelTarget name="shiny" targetId="0d4b025af7534dfd8d96fec388fcd0f8" bbox="-0.078089 0.001899 -0.013635 0.046850 0.032874 0.050694" version="14.0" toolVersion="v7.1.0" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="matte_2" targetId="1f3e776ba0b84117a7b8e2471e7a0bfd" bbox="-0.059298 0.002989 -0.052110 0.035143 0.035047 0.055575" version="14.0" toolVersion="v7.1.0" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="shiny" assemblyId="53a0c3ced5464740bfeeacd8624eed0e">
+        <Part name="shiny" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="matte_2" assemblyId="0d54ddc996334fa6a8f1867f24ad9700">
+        <Part name="matte_2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="f6cf0039880b43c3a0cbf02f15b71054" name="non-aligned-phones" toolVersion="v7.1.0" version="36.0" />
+</QCARInfo>

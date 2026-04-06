@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="lightswitch-ff" targetId="e590503121224608b1f529b83ef9910e" bbox="-0.034217 0.041855 -0.006734 0.048623 0.167587 0.011552" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="lightswitch_on" targetId="b85d7d7a763b4acfbe79f9553eba9984" bbox="-0.040761 0.101825 -0.005130 0.046859 0.232681 0.015051" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="lightswitch-ff" assemblyId="11ffb33a83c049c9895cb444e5623c80">
+        <Part name="lightswitch-ff" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="lightswitch_on" assemblyId="61d0a67353e24befb1d13822d4516737">
+        <Part name="lightswitch_on" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="3912115b554a42f19852275a1b357718" name="Lightswitch001" toolVersion="v7.0.6" version="36.0" />
+</QCARInfo>

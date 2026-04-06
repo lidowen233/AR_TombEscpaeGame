@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="lightswitch-ff" trackingMode="scan" motionHint="adaptive" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects"> </ModelTarget>
+        <ModelTarget name="lightswitch_on" trackingMode="scan" motionHint="adaptive" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects"> </ModelTarget>
+    </Tracking>
+    <Assembly name="lightswitch-ff" assemblyId="11ffb33a83c049c9895cb444e5623c80">
+        <Part name="lightswitch-ff" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="lightswitch_on" assemblyId="61d0a67353e24befb1d13822d4516737">
+        <Part name="lightswitch_on" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <ModelTargetDatabase name="Lightswitch001"> </ModelTargetDatabase>
+</QCARConfig>

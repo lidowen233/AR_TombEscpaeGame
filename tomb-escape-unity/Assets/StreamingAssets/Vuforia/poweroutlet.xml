@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zachary" size="0.200000 0.360673" />
+    <ImageTarget name="school1" size="0.200000 0.374094" />
+    <ImageTarget name="closeup" size="0.200000 0.188216" />
+    <ImageTarget name="pos2" size="0.200000 0.375773" />
+    <ImageTarget name="poweroutlet" size="0.100000 0.170913" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mad22" size="1.000000 1.563555" />
+    <ImageTarget name="car1" size="1.000000 1.500938" />
+    <ImageTarget name="madagascar" size="1.000000 1.478765" />
+    <ImageTarget name="frozen" size="1.000000 1.000000" />
+    <ImageTarget name="trolls" size="1.000000 1.428212" />
+    <ImageTarget name="brave" size="1.000000 1.481481" />
+  </Tracking>
+</QCARConfig>

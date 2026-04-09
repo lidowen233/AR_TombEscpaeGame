@@ -8,7 +8,7 @@ User interaction is enabled through touch-based input, raycasting for precise ob
 
 The project focuses on spatial interaction design, immersive storytelling, and intuitive user engagement, exploring how AR can enhance perception and interaction within hybrid physical–digital environments.
 
-Video Link: https://drive.google.com/file/d/1s2Y5mzec56BQRVwVPZWCC59sjUvbzMHl/view?usp=share_link
+Video Link: https://drive.google.com/file/d/1WqVDFK_R4xg_82-L6xT8ZC33pwwzFjCX/view?usp=share_link
 
 <img width="585" height="1266" alt="IMG_7313" src="https://github.com/user-attachments/assets/dfd9b772-f3fd-42d4-9427-f3e8d6bb04a6" />
 
